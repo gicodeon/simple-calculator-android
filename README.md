@@ -2,4 +2,4 @@
 A simple calculator for android
 
 # Preview
-![](https://github.com/coderHM79/MHM-Simple-Calculator/blob/main/preview.gif)
+![](https://github.com/gicodeon/simple-calculator-android/blob/main/preview.mp4)
